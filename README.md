@@ -7,7 +7,7 @@ they were made using various sunvox versions, but they should all be compatable 
 
 note that the files for Axeph-Null - Bullet Hell and Axeph-Null - Nonplanar Graph are partially lost. they are pattern-based, though, so it should be easy to recreate them
 
-audio files are available via my [newgrounds page](https://acheney.newgrounds.com/audio). official releases are also available via my [bandcamp page](https://acheney.newgrounds.com).
+audio files are available via my [newgrounds page](https://acheney.newgrounds.com/audio). official releases are also available via my [bandcamp page](https://acheney.bandcamp.com).
 
 also note that some of these songs include unlicensed third-party samples. i've kept the samples in the sunvox projects, but if i get a dmca takedown complaint, i can remove them. i'll add sample attributions somewhere here eventually, but for now they're on the newgrounds/bandcamp pages for each song
 
