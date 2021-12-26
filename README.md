@@ -9,6 +9,6 @@ note that the files for Axeph-Null - Bullet Hell and Axeph-Null - Nonplanar Grap
 
 audio files are available via my [newgrounds page](https://acheney.newgrounds.com/audio). official releases are also available via my [bandcamp page](https://acheney.bandcamp.com).
 
-also note that some of these songs include unlicensed third-party samples. i've kept the samples in the sunvox projects, but if i get a dmca takedown complaint, i can remove them. i'll add sample attributions somewhere here eventually, but for now they're on the newgrounds/bandcamp pages for each song
+also note that some of these songs include unlicensed third-party samples. i've kept the samples in the sunvox projects, but if i get a dmca takedown complaint, i can remove them. i'll add sample attributions somewhere here eventually, but for now they're on the newgrounds/bandcamp pages for each song. some of the samples also had to be crushed down to fit in 25mb
 
 these are all licensed under cc-by 3.0 unported. a license file is also included in this repo
