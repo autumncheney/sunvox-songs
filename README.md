@@ -1,3 +1,5 @@
+# NOTICE: this github repository has been archived. the newest updates can be downloaded from [my website](https://acheney.xyz/sunvox/songs) or from [my gitea repo](https://git.acheney.xyz/acheney/sunvox-songs)
+
 # abstract
 here are all of the songs i've made in sunvox. they are sorted based on the various aliases i've used (or not)
 
